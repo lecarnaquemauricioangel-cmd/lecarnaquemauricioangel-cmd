@@ -1,86 +1,63 @@
-<table align="center" width="100%" style="background-color: transparent;">
-<tr>
-<td align="center" valign="middle" width="40%">
+<div align="center">
 
-```text
-       .---.
-      /     \
-     | () () |
-      \  _  /
-       /   \
-      |     |
-      |     |
-     /       \
-    ((|)   (|))
-```
+<!-- Header Terminal animado estilo City-Pop / Synthwave -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=Angel%20Mauricio&fontSize=50&fontAlignY=40&desc=%24%20whoami%20%7C%20Full%20Stack%20%26%20Software%20Developer&descFontSize=20&descAlignY=65&fontColor=ff2a85&stroke=00f5d4&strokeWidth=2" width="100%" />
 
-**`Container`** &nbsp;•&nbsp; **`Linux CLI`**
+<br/>
 
-</td>
-<td valign="top" width="60%">
-
-```yaml
-# system.profile.sys
-user: "Angel Mauricio"
-role: "Full Stack & Software Developer"
-location: "Talara, Perú"
-core_stack:
-  - Frontend: [React, Next.js, TypeScript]
-  - Backend:  [Python, Django, Node.js]
-  - Focus:    [Computer Vision, Linux, APIs]
-status: "Online • Ready to Deploy 🚀"
-```
-
-</td>
-</tr>
-</table>
-
+<!-- Barra de estilo y subtexto como en el video -->
 <p align="center">
-  <b>Cafe</b> • <b>Retro</b> • <b>Music</b> • <b>Vibe</b> • <b>Chill</b> • <b>Tecnología</b>
+  <code><b>Retro</b></code> • <code><b>Code</b></code> • <code><b>Vibe</b></code> • <code><b>Linux</b></code> • <code><b>Dev</b></code>
 </p>
 
----
+</div>
 
-### 💻 `$ whoami`
+<br/>
 
-```yaml
-profile:
-  user: "Angel Mauricio"
-  context: "Talara, Perú"
-  mission: "Crear sistemas confiables, modernos y escalables"
-  platform: "Web • Full Stack • Linux"
-```
+<!-- TARJETA ESTILO VENTANA TERMINAL: WHOAMI -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&background=0D1117&center=false&vCenter=true&width=800&height=120&lines=%24+whoami;name%3A+%22Angel+Mauricio%22;role%3A+%22Full+Stack+Developer%22;location%3A+%22Talara%2C+Per%C3%BA%22;status%3A+%22Building+robust+systems+%26+learning+daily+%E2%9A%A1%22" alt="Terminal Whoami" />
+</div>
 
----
+<br/>
 
-### 🛠️ `$ cat tech-stack.yaml`
+<!-- SECCIÓN TECH STACK ESTILO CONSOLA -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff2a85,100:00f5d4&height=35&section=header&text=%24%20cat%20tech-stack.yaml&fontSize=16&fontAlignY=55&fontColor=ffffff" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,django,nodejs,git,github,vscode,linux,docker&perline=12" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,django,nodejs,git,github,vscode,linux,docker&perline=12" />
+  </a>
 </p>
 
----
+<br/>
 
-### 📊 `$ kubectl get telemetry --all-namespaces`
+<!-- SECCIÓN TELEMETRÍA / STATS EN MODO SYNTHWAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00f5d4,100:ff2a85&height=35&section=header&text=%24%20kubectl%20get%20telemetry%20--all-namespaces&fontSize=16&fontAlignY=55&fontColor=ffffff" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lecarnaquemauricioangel-cmd&show_icons=true&theme=tokyonight&border_color=00ff99&title_color=ff007f&icon_color=00ffff&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecarnaquemauricioangel-cmd&layout=compact&theme=tokyonight&border_color=ff007f&title_color=00ff99&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lecarnaquemauricioangel-cmd&show_icons=true&theme=radical&border_color=ff2a85&title_color=00f5d4&text_color=e0e0e0&icon_color=ff2a85&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecarnaquemauricioangel-cmd&layout=compact&theme=radical&border_color=00f5d4&title_color=ff2a85&text_color=e0e0e0&bg_color=0d1117" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lecarnaquemauricioangel-cmd&theme=tokyonight&border=00ffff&background=0D1117" width="97%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lecarnaquemauricioangel-cmd&theme=radical&border=ff2a85&background=0D1117&stroke=00f5d4&ring=ff2a85&fire=00f5d4&currStreakLabel=00f5d4" width="97%" />
+</div>
 
----
+<br/>
 
-### 📡 `$ connect --socials`
-
-<p align="center">
+<!-- CONECTAR REDES -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:161b22,100:0d1117&height=30&section=header&text=%24%20connect%20--socials&fontSize=14&fontAlignY=55&fontColor=00f5d4" width="100%" />
+  <br/>
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/lecarnaquemauricioangel-cmd" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>

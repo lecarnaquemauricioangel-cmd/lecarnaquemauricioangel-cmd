@@ -1,5 +1,17 @@
 # 💻 lecarnaquemauricioangel-cmd / README.md
 
+```text
+       .---.
+      /     \
+     | () () |
+      \  _  /
+       /   \
+      |     |
+      |     |
+     /       \
+    ((|)   (|))
+```
+
 ```bash
 $ whoami
 ```

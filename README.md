@@ -1,79 +1,42 @@
-# 💻 lecarnaquemauricioangel-cmd / README.md
-
-```text
-       .---.
-      /     \
-     | () () |
-      \  _  /
-       /   \
-      |     |
-      |     |
-     /       \
-    ((|)   (|))
-```
-
-```bash
-$ whoami
-```
-
-```yaml
-profile:
-  name: "Angel Mauricio"
-  role: "Full Stack & Software Developer"
-  focus: ["React", "Next.js", "Django", "Computer Vision"]
-  location: "Talara, Perú"
-  status: "Building software & learning daily 🚀"
-```
-
----
-
-```bash
-$ cat tech-stack.yaml
-```
+p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,django,nodejs,git,github,vscode,linux,docker&theme=dark" />
+  </a>
+</p>
 
 <div align="center">
-
-<!-- Frontend -->
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-<!-- Backend & Data -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-<!-- Tools & Environment -->
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
 
----
+### 📊 `$ kubectl get telemetry --all-namespaces`
 
-```bash
-$ fetch --github-stats
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lecarnaquemauricioangel-cmd&show_icons=true&theme=tokyonight&border_color=00ff99&title_color=ff007f&icon_color=00ffff&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecarnaquemauricioangel-cmd&layout=compact&theme=tokyonight&border_color=ff007f&title_color=00ff99&hide_border=false" width="48%" />
+</p>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lecarnaquemauricioangel-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecarnaquemauricioangel-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+  <!-- Medidor de racha estilo terminal -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lecarnaquemauricioangel-cmd&theme=tokyonight&border=00ffff&background=0D1117" width="97%" />
 </div>
 
----
-
-```bash
-$ connect --socials
-```
+<br/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lecarnaquemauricioangel-cmd)
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
+
+### 📡 `$ connect --socials`
+
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/lecarnaquemauricioangel-cmd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</p>
+
+<div align="center">
+  <sub>⚡ Hosted on GitHub • Rendered with pure terminal vibes ⚡</sub>
+</div

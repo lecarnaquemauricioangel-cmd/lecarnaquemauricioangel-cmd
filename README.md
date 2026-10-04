@@ -6,7 +6,7 @@
 
 - 🎓 Estudiante apasionado por el **Desarrollo Frontend & Web**.
 - 💻 Desarrollador **Frontend** enfocado en crear interfaces interactivas, responsivas y accesibles.
-- 🚀 Actualmente profundizando en **React**, **Next.js**, **TypeScript**, **Tailwind CSS** y aprendiendo bases de backend.
+- 🚀 Experiencia integrando interfaces web con modelos de **Visión Artificial** y hardware interactivo.
 - 📍 **Talara, Perú**.
 - 💬 Pregúntame sobre **JavaScript, TypeScript, React, Next.js y diseño UI/UX**.
 
@@ -27,7 +27,7 @@
 
 | Proyecto | Descripción | Stack Principal | Repositorio |
 | :--- | :--- | :--- | :---: |
-| ✋ **Gesture Arduino** | Control gestual en tiempo real con visión artificial, Web Serial API y hardware | MediaPipe · Web Serial API · Arduino · JS | [🔗 Ver Repo](https://github.com/lecarnaquemauricioangel-cmd/GestureArduino) |
+| ✋ **Gesture Arduino AI** | Control gestual en tiempo real con visión artificial, Web Serial API y hardware | MediaPipe · Web Serial API · Arduino · JS | [🔗 Ver Repo](https://github.com/lecarnaquemauricioangel-cmd/gesture-arduino-ai) |
 | 🦺 **EPP Detection Web** | Interfaz web de monitoreo para detección de equipos de seguridad con YOLO | React / Web UI · Python · YOLO | *En desarrollo* |
 | 📊 **Video Dashboard** | Panel interactivo para análisis, métricas y control de streams de video | React · Tailwind · REST APIs | *En desarrollo* |
 | 🎮 **Quiz Arena** | Aplicación web interactiva de trivias con gestión de estado dinámico | JavaScript · CSS · Web APIs | *En desarrollo* |

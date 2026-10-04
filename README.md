@@ -4,11 +4,11 @@
 
 ### 💁‍♂️ Sobre mí
 
-- 🎓 Estudiante enfocado en **Desarrollo Frontend & Web**.
-- 💻 Desarrollador **Frontend** especializado en interfaces modernas, paneles de control y aplicaciones reactivas.
-- 🚀 Experiencia integrando interfaces web con modelos de **Visión Artificial (YOLO)** y hardware interactivo.
+- 🎓 Estudiante apasionado por el **Desarrollo Frontend & Web**.
+- 💻 Desarrollador enfocado en interfaces modernas, paneles reactivos y aplicaciones interactivas.
+- 🚀 Especializado en integrar interfaces web con modelos de **Visión Artificial (MediaPipe / YOLO)** en tiempo real.
 - 📍 **Talara, Perú**.
-- 💬 Pregúntame sobre **JavaScript, TypeScript, React, Next.js y diseño de interfaces**.
+- 💬 Pregúntame sobre **JavaScript, TypeScript, React, Next.js y Tailwind CSS**.
 
 ---
 
@@ -27,10 +27,10 @@
 
 | Proyecto | Descripción | Stack Principal | Repositorio |
 | :--- | :--- | :--- | :---: |
+| 🥽 **Biometric FaceMesh HUD** | HUD biométrico y probador virtual (Try-On) a 60 FPS con 478 landmarks en navegador | React 19 · MediaPipe Tasks · Canvas · TS | [🔗 Ver Repo](https://github.com/lecarnaquemauricioangel-cmd/biometric-facemesh-hud) |
 | ✋ **Gesture Arduino AI** | Control gestual en tiempo real con visión artificial, Web Serial API y hardware | MediaPipe · Web Serial API · Arduino · JS | [🔗 Ver Repo](https://github.com/lecarnaquemauricioangel-cmd/gesture-arduino-ai) |
-| 🔥 **Fire & Smoke Detection** | Panel web para monitoreo y detección temprana de fuego y humo en tiempo real con YOLOv8 | Python · YOLOv8 · Web Dashboard · HTML/CSS | [🔗 Ver Repo](https://github.com/lecarnaquemauricioangel-cmd/fire-smoke-detection-ai) |
-| 📊 **Video Dashboard** | Panel interactivo para análisis, métricas y control de streams de video | React · Tailwind · REST APIs | *En desarrollo* |
-| 🎮 **Quiz Arena** | Aplicación web interactiva de trivias con gestión de estado dinámico | JavaScript · CSS · Web APIs | *En desarrollo* |
+| 🔥 **Fire & Smoke Detection** | Panel web para monitoreo y detección temprana de fuego y humo en tiempo real | Python · YOLOv8 · Web Dashboard · SQLite | [🔗 Ver Repo](https://github.com/lecarnaquemauricioangel-cmd/fire-smoke-detection-ai) |
+| 👁️ **EdgeVision AI Studio** | Detección de objetos en cliente, tripwire interactivo y analítica con WebGL | React · TensorFlow.js · WebGL · Tailwind | *En desarrollo* |
 
 ---
 

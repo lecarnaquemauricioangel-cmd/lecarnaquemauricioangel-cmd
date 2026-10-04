@@ -1,13 +1,42 @@
 <div align="center">
 
-  # ⚡ Angel Mauricio Lecarnaque
-  ### `Frontend Engineer` • `Three.js & WebGL 3D` • `Real-Time Computer Vision`
+  # ⚡ ANGEL MAURICIO LECARNAQUE
+  <sub><code>[ SYSTEM ARCHITECTURE // CREATIVE FRONTEND & 3D WEBGL ]</code></sub>
 
+  <br/><br/>
+
+  <!-- PANEL DE TELEMETRÍA HUD -->
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <small>📡 <b>SYSTEM RUNTIME</b></small><br/>
+        <code>ONLINE // 60 FPS</code>
+      </td>
+      <td align="center" width="25%">
+        <small>🌐 <b>3D & GRAPHICS</b></small><br/>
+        <code>THREE.JS / WEBGL</code>
+      </td>
+      <td align="center" width="25%">
+        <small>👁️ <b>EDGE VISION AI</b></small><br/>
+        <code>MEDIAPIPE / YOLO</code>
+      </td>
+      <td align="center" width="25%">
+        <small>🟢 <b>CURRENT STATUS</b></small><br/>
+        <code>OPEN TO WORK</code>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- BADGES DE CONTACTO RÁPIDO -->
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00dfd8?style=for-the-badge&logo=codeforces&logoColor=black" />
-    <img src="https://img.shields.io/badge/LOCATION-TALARA%2C_PERÚ-7928ca?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/LOCATION-TALARA%2C_PERÚ-7928ca?style=flat-square&logo=googlemaps&logoColor=white" />
+    <a href="mailto:mauriciolecarnaque30@gmail.com">
+      <img src="https://img.shields.io/badge/CONTACT-EMAIL_DIRECT-00dfd8?style=flat-square&logo=gmail&logoColor=black" />
+    </a>
     <a href="https://github.com/lecarnaquemauricioangel-cmd">
-      <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/PROFILE-VERIFIED-22c55e?style=flat-square&logo=github&logoColor=white" />
     </a>
   </p>
 

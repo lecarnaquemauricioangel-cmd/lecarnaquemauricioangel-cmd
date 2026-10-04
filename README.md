@@ -5,7 +5,7 @@
 ### 💁‍♂️ Sobre mí
 
 - 🎓 Estudiante apasionado por el **Desarrollo Frontend & Web**.
-- 💻 Desarrollador **Frontend** enfocado en crear interfaces de usuario interactivas, responsivas y accesibles.
+- 💻 Desarrollador **Frontend** enfocado en crear interfaces interactivas, responsivas y accesibles.
 - 🚀 Actualmente profundizando en **React**, **Next.js**, **TypeScript**, **Tailwind CSS** y aprendiendo bases de backend.
 - 📍 **Talara, Perú**.
 - 💬 Pregúntame sobre **JavaScript, TypeScript, React, Next.js y diseño UI/UX**.
@@ -27,9 +27,10 @@
 
 | Proyecto | Descripción | Stack Principal | Repositorio |
 | :--- | :--- | :--- | :---: |
-| 🌐 **Plataforma Web Empresarial** | Desarrollo de interfaces responsivas, consumo de APIs REST y dashboard interactivo | Next.js · TypeScript · Tailwind | [🔗 Ver](https://github.com/lecarnaquemauricioangel-cmd) |
-| 📱 **Portal & Landing Page** | Maquetación web con alta optimización SEO, diseño adaptable y componentes UI | React · Vite · Tailwind | [🔗 Ver](https://github.com/lecarnaquemauricioangel-cmd) |
-| ⚙️ **Panel de Gestión & Métricas** | Interfaz administrativa para visualización y control de datos en tiempo real | React · JavaScript · Bootstrap | [🔗 Ver](https://github.com/lecarnaquemauricioangel-cmd) |
+| ✋ **Gesture Arduino** | Control gestual en tiempo real con visión artificial, Web Serial API y hardware | MediaPipe · Web Serial API · Arduino · JS | [🔗 Ver Repo](https://github.com/lecarnaquemauricioangel-cmd/GestureArduino) |
+| 🦺 **EPP Detection Web** | Interfaz web de monitoreo para detección de equipos de seguridad con YOLO | React / Web UI · Python · YOLO | *En desarrollo* |
+| 📊 **Video Dashboard** | Panel interactivo para análisis, métricas y control de streams de video | React · Tailwind · REST APIs | *En desarrollo* |
+| 🎮 **Quiz Arena** | Aplicación web interactiva de trivias con gestión de estado dinámico | JavaScript · CSS · Web APIs | *En desarrollo* |
 
 ---
 
